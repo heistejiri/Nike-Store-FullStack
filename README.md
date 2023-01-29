@@ -1,5 +1,7 @@
 ## ⭐ Nike-Store-FullStack ⭐
-A fullstack nike ecommerce webapp **Fully Responsive** website, built using **ReactJS, JavaScript.**
+
+This project is still under construction. 
+A fullstack nike ecommerce webapp **Fully Responsive** website, built using **ReactJS || Redux, JavaScript.**
 <br>
 <br>
 
