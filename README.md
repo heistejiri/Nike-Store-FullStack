@@ -11,11 +11,11 @@ This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create 
 
 <br>
 
-#### ScreenShots :
+#### Screenshots :
  
- <img src="/screenshots/screenshot1.jpg"  height ="650" width="400"/>
- <img src="/screenshots/screenshot2.jpg" height ="650" width="400" >
- <img src="/screenshots/screenshot3.jpg" height ="650" width="400" >
+ <img src="/screenshots/screenshot1.png"  height ="650" width="400"/>
+ <img src="/screenshots/screenshot2.png" height ="650" width="400" >
+ <img src="/screenshots/screenshot3.png" height ="650" width="400" >
 
  ## 📬 Connect With Me
 
